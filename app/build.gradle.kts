@@ -6,11 +6,11 @@ plugins {
 
 android {
     namespace = "com.devspace.taskbeats"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.devspace.taskbeats"
-        minSdk = 24
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
